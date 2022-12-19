@@ -1,0 +1,78 @@
+Effective date: May 11, 2022
+ 
+We recognize the importance of maintaining your privacy. To provide you with our personalized app (the “App”) and services(the “Service”), we need to collect some privacy information about you, and this privacy policy explains the information we collect, how we treats your information and protects your privacy. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Thanks for choosing our App and Service. Please read this Privacy Policy carefully to understand it. If you use the App and Service, we consider you to consent the terms and conditions described in this document. IF YOU DO NOT AGREE WITH ANY TERM IN THIS POLICY, PLEASE DO NOT USE OUR SERVICES.
+ 
+Face Data Policy
+What face data is our app collecting? 
+
+We do not collect face data. We analyze users' photos and find out the feature points (like eyes, nose, mouth points) of the face in photo for face processing purpose. We do not collect face data. After the analyzing process ends all data will be deleted, no data will be saved. 
+ 
+For what purposes are we collecting this information? 
+
+In order to provide users their "Change face" effects, the app needs to find out the feature points (like eyes, nose, mouth points). The complete process is: (1) You transfer pictures to our server. (2) The server analyzes your photo and returns the result of facial data processing. (3) The application automatically synthesizes the facial data processing results and materials into the final effect. (4) This information is temporarily stored in Alibaba Cloud's encrypted storage. After the synthesis process is completed, your pictures will be automatically deleted immediately. 
+ 
+Will the data be shared with any third parties? Where will this information be stored?  
+The data will not be shared with any third parties. The photos you uploaded will be deleted after the analyzing process ends.
+ 
+What kinds of information we collect from you?
+There are two general categories of information we will process:
+
+1. Information may be automatically collected
+
+When you use or access the Software and the Service, some information about you may be automatically collected as follows:
+
+Technical Information. We may use UIDevice to collect your configurations and settings of the Software and the Service, version of the Software and the Service, and use Universally Unique Identifier(UUID) to collect anonymous user identifiers.
+
+2. Information that you provide to us
+
+➤ Facial features data. When you first use the face recognition function, You may voluntarily grant us the permission to access to your camera and album to obtain your facial photo in your mobile device. Only if you confirm the permission, will we gain access to your camera and album. We will then use the sdk provided by third parties to analyze the facial features data, recognize the position and shape of the five sense organs, gender, race in the photos, and process the photos, feedback the effect drawing or conclusion to you. Such effect drawing or conclusion will not contain any personal identifiable information. For such data, photo, effect drawing and conclusion, we will neither store nor share them with any third parties.
+
+The purpose of processing such information is only to operate the face recognition functions of the App.
+
+➤ Support Related Information. If you communicate with us via our support section or via email, we may also collect your email address, name and any information voluntarily submitted by you in connection with such support (for example, your name, company name, and particular support query or request). Such information will only be used to provide you with support services and will not be connected with any other information collected from you on or through the Software and Service, including, any individual User ID (as defined below) generated or collected by us. When you use the Software and Service, we automatically generate an anonymous internal user ID (which does not personally identify you), which is assigned to your use of the Software and Service (the “User ID”) and may be combined with any of the above information.
+ 
+How we use your information?
+1. The main reason we use your information is to deliver and improve the Service. Read on for a more detailed explanation of the various reasons we use your information:
+ ➤ to operate and update the Software and the Service, and provide you with existing and new functionality and features;
+➤ to improve and customize the Software and the Service;
+➤ to maintain, test, monitor and improve the quality and operation of the Software;
+➤ to take any action in case of a dispute involving you in connection with the Software and the Service;
+➤ to comply and satisfy any applicable law regulation, legal process or enforceable governmental request.
+ 
+2. If any new purposes for processing your information arise we will let you know we start to process information on that other purpose by introducing the corresponding changes to this Privacy policy.
+ 
+How your information may be shared? We will not rent or sell your personal information to the third- party.
+Competent law enforcement or regulatory authorities, government agencies, courts of law or other third parties. We may disclose your data or information about you in response to a request where we believe in good faith that we are under legal obligation, or legally permitted, to do so; or where we believe it is necessary:
+to detect, prevent, and address fraud, violations of our terms or policies, or other harmful or illegal activity;
+to protect ourselves such as establishing, exercising, or defending our legal rights (including our intellectual property rights and those of our licensors); or
+to protect your vital interests or those of any other persons such as public safety. 
+The Software may contain links to third-party websites/services or you may access the Software from a third-party site. We are not responsible for the privacy practices or the content of these third-party sites or services linked to or from our Software, including the information or content contained within them.
+
+3. We may disclose your personal information if it needed for objective reasons, due to public interest or in other unforeseen circumstances: 
+➤ as required by law;
+
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
+Transfer of data outside your territory
+1. We work in the international space and provide the Software to our users around the world. We and third-party organizations that provide automatic data processing technologies for the Software or our third-party advertising partners may transfer the automatically processed information across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
+ 
+2. Where you located in the EEA, as required by law, you hereby provide us with your express consent to transfer your data to where may be outside of EEA once you use the Service. You may withdraw your consent at any time.
+ 
+Right of access, modification and deletion of your information
+In compliance with legal provisions, you have a general right to access, edit and delete your personal information which have been collected pursuant to your access to and/or use of the Service. In order to exercise this right, please contact us through the email displayed below.
+ 
+Security of your personal information
+1. The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
+ 
+We take reasonable and appropriate measures to protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into account the risks involved in the processing and the nature of the personal information.
+ 
+2. We implement appropriate technical and organizational measures, which are designed to implement data-protection principles, such as data minimization, in an effective manner and to integrate the necessary safeguards into the processing. We seek your personal information to be encrypted with proper and strong encryption algorithms, including hashing where possible.
+ 
+3. Unfortunately, no method of transmission over the Internet, or method of electronic storage, is 100% secure. We do our best to protect your personal information, nevertheless, we cannot guarantee its absolute security. In the event that your personal information is compromised as a breach of security, we will promptly notify you in compliance with applicable law.
+ 
+If you have any questions about security of the Software, you can contact us through the email displayed below.
+ 
+Changes to this privacy policy
+This Privacy policy may change from time to time. Whenever we change this Privacy policy, we will post those changes to this Privacy policy and other places that we consider appropriate. Please check and pay close attention to this Privacy Policy from time to time.
+ 
+Any question?
+If you have any questions about the Service or this Privacy Policy, or if you would like to obtain a previous version of the current document, feel free to contact us within the app. 
